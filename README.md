@@ -2,7 +2,7 @@
 
 This is a sample Python project defining shape classes.
 
-Its main intent is class practice during Modern Programming Techniques course.
+Its main intent is class practice during Programming course.
 
 ## Tasks to do
 
